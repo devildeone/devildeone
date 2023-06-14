@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @devildeone
-- 👀 I’m interested in coding and Hacking
+- 👀 I’m interested in coding
 - 🌱 I’m currently self teaching
-- 💞️ I’m looking to collaborate on a BruteForce Attacker
 - 📫 How to reach me,, ill let you know
 
 <!---
